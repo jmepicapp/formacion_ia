@@ -1,0 +1,12 @@
+{
+  "name": "formacion_ia",
+  "version": "1.0.0",
+  "main": "1.validateEmail.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
