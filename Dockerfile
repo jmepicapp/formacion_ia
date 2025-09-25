@@ -1,4 +1,3 @@
-# Dockerfile
 # Imagen base ligera con Node.js LTS
 FROM node:18-alpine
 
